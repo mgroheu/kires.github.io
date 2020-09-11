@@ -1,10 +1,10 @@
 ---
 layout: pages
-title: PRIVACY POLICY
+title: DATENSCHUTZ
 permalink: /privacy-policy
 comments: false
-description: PRIVACY POLICY
-image: https://source.unsplash.com/collection/375719/2000x1322?a=.png
+description: 
+image: ../images/datenschutz.jpg
 ---
 
 <h3>Privacy</h3>

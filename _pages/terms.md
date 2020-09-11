@@ -1,10 +1,10 @@
 ---
 layout: pages
-title: TERMS OF USE
+title: IMPRESSUM
 permalink: /terms
 comments: false
-description: TERMS OF USE
-image: https://source.unsplash.com/collection/375719/2000x1322?a=.png
+description: 
+image: ../images/impressum.jpg
 ---
 
 

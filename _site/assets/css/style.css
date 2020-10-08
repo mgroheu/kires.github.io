@@ -865,7 +865,7 @@ ul li, ol li { padding: 0; margin: 0; }
 
 .button:hover { color: #ffffff; background-color: #ea524d; transform: translateY(-1px); text-decoration: none; }
 
-.call { position: relative; overflow: hidden; background-color: #fff6f8; border-radius: 4px; width: 100%; display: flex; align-items: center; flex-direction: row; flex-wrap: wrap; z-index: 2; }
+.call { position: relative; overflow: hidden; background-color: #fff6f8; border-radius: 4px; width: 80%; display: flex; align-items: center; flex-direction: row; flex-wrap: wrap; z-index: 2; }
 
 @media (min-width: 576px) { .call { align-items: center; flex-direction: row; flex-wrap: wrap; } }
 

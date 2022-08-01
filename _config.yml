@@ -12,14 +12,14 @@ logo:
   desktop: "images/logo/logo.svg"
   desktop_height: "36px"
 footer:
-  copyright_text: 'Copyright by © 2020 Kires GbR'
+  copyright_text: 'Copyright by © 2022 Kires GbR'
 
 seo:
   meta_og_title: "Kires GbR Website"
   meta_og_type: "website"
   meta_og_url: "https://kires.de"
   meta_og_image: ""
-  meta_og_description: "Ihre UV-Desinfektion für Rolltreppen Handlauf."
+  meta_og_description: "We are continuously developing economically viable and expandable options for alternative protein sources."
   meta_twitter_card: "summary"
   meta_twitter_site: ""
   meta_twitter_creator: ""
